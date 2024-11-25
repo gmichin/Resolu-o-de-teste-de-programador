@@ -1,1 +1,1 @@
-# Resolu-o-de-teste-de-programador
+# Resolução: teste de programador
